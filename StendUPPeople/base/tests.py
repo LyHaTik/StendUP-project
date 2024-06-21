@@ -1,3 +1,5 @@
-from django.test import TestCase
 
-# Create your tests here.
+dom = 'string'
+
+print(dom[:1])
+print(dom[1:])
